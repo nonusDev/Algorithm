@@ -12,6 +12,7 @@ def solution(board, moves):
                 stack.pop()
                 stack.pop()
                 cnt += 2
+
     return cnt
 
 # 1

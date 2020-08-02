@@ -4,7 +4,6 @@ def solution(answers):
     for i in range(len(data)):
         tmp = len(answers) // len(data) + 1
         data[i] *= tmp
-        
         for j in range(len(answers)):
             if answers[j] == data[i][j]:
                 sol[i] += 1
