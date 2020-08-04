@@ -3,6 +3,7 @@ def solution(s):
         res = s[(len(s)//2)-1]+s[len(s)//2]
     else:
         res = s[(len(s)//2)]
+        
     return res
 
 # 1
