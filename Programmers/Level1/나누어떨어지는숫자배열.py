@@ -20,5 +20,5 @@ arr = [2, 36, 1, 3]
 divisor = 1
 
 # 3
-arr = [3,2,6]
+arr = [3, 2, 6]
 divisor = 10
