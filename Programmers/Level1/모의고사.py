@@ -16,8 +16,8 @@ def solution(answers):
                     
     return res
 
-    # 1
-    answers = [1, 2, 3, 4, 5]
-    
-    # 2
-    answers = [1, 3, 2, 4, 2]
+# 1
+answers = [1, 2, 3, 4, 5]
+
+# 2
+answers = [1, 3, 2, 4, 2]
