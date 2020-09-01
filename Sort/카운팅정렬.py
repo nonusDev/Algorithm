@@ -2,7 +2,7 @@
 # 시간 복잡도 : O(n)
 
 
-def conting_sort(x):
+def counting_sort(x):
     for i in range(len(arr)):
         count[arr[i]] += 1
     
