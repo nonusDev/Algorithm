@@ -26,3 +26,9 @@
 | [[1차] 다트 게임](https://programmers.co.kr/learn/courses/30/lessons/17682?language=python3) |                                                              | [두 개 뽑아서 더하기](https://programmers.co.kr/learn/courses/30/lessons/68644?language=python3) | [Python](https://github.com/nonusDev/Algorithm/blob/master/Programmers/Level1/두개뽑아서더하기.py) |                                                              |                                                              |
 
 </details>
+
+
+
+### SWEA
+
+* [D1](https://swexpertacademy.com/main/code/problem/problemList.do?problemLevel=1&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
