@@ -5,10 +5,10 @@ sys.stdin = open("1284.수도요금경쟁.txt", 'r')
 for tc in range(1, int(input())+1):
     P, Q, R, S, W = map(int, input().split())
 
-    x = P * W
+    A = P * W
     if W <= R:
-        y = Q
+        B = Q
     else:
-        y = Q + ((W-R) * S)
+        B = Q + ((W-R) * S)
     
-    print(f"#{tc} {min(x, y)}")
+    print(f"#{tc} {min(A, B)}")
