@@ -1,6 +1,6 @@
 import sys
 
-sys.stdin = open("1945.달팽이숫자.txt", 'r')
+sys.stdin = open("1954.달팽이숫자.txt", 'r')
 
 for tc in range(1, int(input())+1):
     N = int(input())
