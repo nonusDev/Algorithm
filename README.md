@@ -65,3 +65,12 @@
 
 </details>
 
+* [D3](https://swexpertacademy.com/main/code/problem/problemList.do?problemLevel=3&problemTitle=&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+<details open> <summary>접기/펼치기</summary>
+
+|                             문제                             |                             코드                             | 문제 | 코드 | 문제 | 코드 |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :--: | :--: | :--: |
+| [1209. Sum](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh&categoryId=AV13_BWKACUCFAYh&categoryType=CODE) | [Python](https://github.com/nonusDev/Algorithm/blob/master/SWEA/D3/1209.Sum.py) |      |      |      |      |
+
+</details>
