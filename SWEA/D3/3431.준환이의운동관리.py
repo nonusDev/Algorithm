@@ -10,5 +10,5 @@ for tc in range(1, int(input())+1):
         res = L - X
     elif U <= X:
         res = -1
-    
+        
     print(f"#{tc} {res}")
