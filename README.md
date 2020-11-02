@@ -69,8 +69,10 @@
 
 <details open> <summary>접기/펼치기</summary>
 
-|                             문제                             |                             코드                             |                             문제                             |                             코드                             | 문제 | 코드 |
-| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :--: |
-| [1209. Sum](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh&categoryId=AV13_BWKACUCFAYh&categoryType=CODE) | [Python](https://github.com/nonusDev/Algorithm/blob/master/SWEA/D3/1209.Sum.py) | [3431. 준환이의 운동관리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWE_ZXcqAAMDFAV2&categoryId=AWE_ZXcqAAMDFAV2&categoryType=CODE) | [Python](https://github.com/nonusDev/Algorithm/blob/master/SWEA/D3/3431.준환이의운동관리.py) |      |      |
+|                             문제                             |                             코드                             | 문제 | 코드 | 문제 | 코드 |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :--: | :--: | :--: | :--: |
+| [1209. Sum](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV13_BWKACUCFAYh&categoryId=AV13_BWKACUCFAYh&categoryType=CODE) | [Python](https://github.com/nonusDev/Algorithm/blob/master/SWEA/D3/1209.Sum.py) |      |      |      |      |
+| [3431. 준환이의 운동관리](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWE_ZXcqAAMDFAV2&categoryId=AWE_ZXcqAAMDFAV2&categoryType=CODE) | [Python](https://github.com/nonusDev/Algorithm/blob/master/SWEA/D3/3431.준환이의운동관리.py) |      |      |      |      |
+|                                                              |                                                              |      |      |      |      |
 
 </details>
